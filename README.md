@@ -1,3 +1,7 @@
+Luigi-style WOFS workflow.
+
+
+
 # Water Observation from Space (WOfS)
 
 Continental-scale Water Mapping Using Earth-Observation Satellite Imagery Time Series.
